@@ -1,0 +1,501 @@
+merchant_id,merchant_name,category,city,country
+1,PVR #1,Entertainment,Delhi,India
+2,Water Board #2,Utilities,Hyderabad,India
+3,Swiggy #3,Food Delivery,Noida,India
+4,Vijay Sales #4,Electronics,Mumbai,India
+5,Pantaloons #5,Fashion,Delhi,India
+6,DMart #6,Grocery,Hyderabad,India
+7,Swiggy #7,Food Delivery,Kolkata,India
+8,Zomato #8,Food Delivery,Hyderabad,India
+9,Marriott #9,Hotel,Indore,India
+10,Reliance Fresh #10,Grocery,Noida,India
+11,Ola #11,Transport,Chennai,India
+12,Pizza Hut #12,Restaurant,Indore,India
+13,IRCTC #13,Travel,Mumbai,India
+14,Uber #14,Transport,Pune,India
+15,Goibibo #15,Travel,Indore,India
+16,More #16,Grocery,Kolkata,India
+17,Reliance Digital #17,Electronics,Mumbai,India
+18,MedPlus #18,Pharmacy,Surat,India
+19,BookMyShow #19,Entertainment,Nagpur,India
+20,MakeMyTrip #20,Travel,Noida,India
+21,Amazon #21,Electronics,Lucknow,India
+22,Zomato #22,Food Delivery,Mumbai,India
+23,Swiggy #23,Food Delivery,Ahmedabad,India
+24,Shell #24,Fuel,Lucknow,India
+25,MakeMyTrip #25,Travel,Pune,India
+26,MakeMyTrip #26,Travel,Lucknow,India
+27,Indian Oil #27,Fuel,Chandigarh,India
+28,PVR #28,Entertainment,Kolkata,India
+29,Electricity Board #29,Utilities,Bengaluru,India
+30,Radisson #30,Hotel,Chennai,India
+31,BookMyShow #31,Entertainment,Kolkata,India
+32,Zomato #32,Food Delivery,Surat,India
+33,Reliance Fresh #33,Grocery,Surat,India
+34,Big Bazaar #34,Grocery,Ahmedabad,India
+35,Indian Oil #35,Fuel,Hyderabad,India
+36,Lifestyle #36,Fashion,Hyderabad,India
+37,INOX #37,Entertainment,Ahmedabad,India
+38,INOX #38,Entertainment,Bengaluru,India
+39,HP #39,Fuel,Hyderabad,India
+40,Gas Agency #40,Utilities,Kolkata,India
+41,Shell #41,Fuel,Nagpur,India
+42,Pantaloons #42,Fashion,Pune,India
+43,Swiggy #43,Food Delivery,Kolkata,India
+44,Taj Hotels #44,Hotel,Indore,India
+45,DMart #45,Grocery,Bengaluru,India
+46,PVR #46,Entertainment,Indore,India
+47,INOX #47,Entertainment,Chandigarh,India
+48,Reliance Digital #48,Electronics,Ahmedabad,India
+49,Pantaloons #49,Fashion,Kolkata,India
+50,Indian Oil #50,Fuel,Lucknow,India
+51,Electricity Board #51,Utilities,Lucknow,India
+52,MedPlus #52,Pharmacy,Indore,India
+53,INOX #53,Entertainment,Mumbai,India
+54,Shell #54,Fuel,Bengaluru,India
+55,Taj Hotels #55,Hotel,Noida,India
+56,Water Board #56,Utilities,Kolkata,India
+57,KFC #57,Restaurant,Nagpur,India
+58,Croma #58,Electronics,Surat,India
+59,BookMyShow #59,Entertainment,Chandigarh,India
+60,Swiggy #60,Food Delivery,Pune,India
+61,KFC #61,Restaurant,Indore,India
+62,Apollo Pharmacy #62,Pharmacy,Chandigarh,India
+63,Yatra #63,Travel,Delhi,India
+64,Croma #64,Electronics,Nagpur,India
+65,HP #65,Fuel,Delhi,India
+66,Swiggy #66,Food Delivery,Mumbai,India
+67,Water Board #67,Utilities,Surat,India
+68,Vijay Sales #68,Electronics,Indore,India
+69,Pizza Hut #69,Restaurant,Lucknow,India
+70,OYO #70,Hotel,Chennai,India
+71,1mg #71,Pharmacy,Ahmedabad,India
+72,Swiggy #72,Food Delivery,Noida,India
+73,Shell #73,Fuel,Lucknow,India
+74,INOX #74,Entertainment,Jaipur,India
+75,MedPlus #75,Pharmacy,Mumbai,India
+76,Swiggy #76,Food Delivery,Mumbai,India
+77,IRCTC #77,Travel,Chandigarh,India
+78,Apollo Pharmacy #78,Pharmacy,Chandigarh,India
+79,Swiggy #79,Food Delivery,Mumbai,India
+80,Gas Agency #80,Utilities,Delhi,India
+81,Swiggy #81,Food Delivery,Nagpur,India
+82,Big Bazaar #82,Grocery,Mumbai,India
+83,Apollo Pharmacy #83,Pharmacy,Chennai,India
+84,INOX #84,Entertainment,Hyderabad,India
+85,Apollo Pharmacy #85,Pharmacy,Noida,India
+86,Pantaloons #86,Fashion,Hyderabad,India
+87,Radisson #87,Hotel,Hyderabad,India
+88,Amazon #88,Electronics,Lucknow,India
+89,Ola #89,Transport,Ahmedabad,India
+90,Ola #90,Transport,Surat,India
+91,Electricity Board #91,Utilities,Lucknow,India
+92,BookMyShow #92,Entertainment,Mumbai,India
+93,More #93,Grocery,Noida,India
+94,IRCTC #94,Travel,Hyderabad,India
+95,Swiggy #95,Food Delivery,Kolkata,India
+96,OYO #96,Hotel,Ahmedabad,India
+97,McDonald's #97,Restaurant,Jaipur,India
+98,Swiggy #98,Food Delivery,Jaipur,India
+99,Apollo Pharmacy #99,Pharmacy,Delhi,India
+100,BookMyShow #100,Entertainment,Surat,India
+101,DMart #101,Grocery,Nagpur,India
+102,Swiggy #102,Food Delivery,Ahmedabad,India
+103,Radisson #103,Hotel,Hyderabad,India
+104,Uber #104,Transport,Bengaluru,India
+105,Uber #105,Transport,Ahmedabad,India
+106,Shell #106,Fuel,Chennai,India
+107,Ola #107,Transport,Bengaluru,India
+108,Zomato #108,Food Delivery,Hyderabad,India
+109,Spencer's #109,Grocery,Noida,India
+110,Apollo Pharmacy #110,Pharmacy,Noida,India
+111,IRCTC #111,Travel,Delhi,India
+112,Pantaloons #112,Fashion,Kolkata,India
+113,Apollo Pharmacy #113,Pharmacy,Delhi,India
+114,Apollo Pharmacy #114,Pharmacy,Surat,India
+115,Domino's #115,Restaurant,Chandigarh,India
+116,Flipkart #116,Electronics,Ahmedabad,India
+117,Vijay Sales #117,Electronics,Hyderabad,India
+118,Myntra #118,Fashion,Chandigarh,India
+119,Reliance Digital #119,Electronics,Lucknow,India
+120,Lifestyle #120,Fashion,Nagpur,India
+121,HP #121,Fuel,Lucknow,India
+122,Water Board #122,Utilities,Hyderabad,India
+123,Shell #123,Fuel,Bengaluru,India
+124,BookMyShow #124,Entertainment,Chennai,India
+125,Marriott #125,Hotel,Nagpur,India
+126,Amazon #126,Electronics,Jaipur,India
+127,Myntra #127,Fashion,Mumbai,India
+128,Apollo Pharmacy #128,Pharmacy,Kolkata,India
+129,HP #129,Fuel,Nagpur,India
+130,IRCTC #130,Travel,Nagpur,India
+131,Zomato #131,Food Delivery,Chennai,India
+132,Burger King #132,Restaurant,Surat,India
+133,1mg #133,Pharmacy,Chennai,India
+134,Myntra #134,Fashion,Lucknow,India
+135,MedPlus #135,Pharmacy,Nagpur,India
+136,PVR #136,Entertainment,Nagpur,India
+137,McDonald's #137,Restaurant,Mumbai,India
+138,Vijay Sales #138,Electronics,Bengaluru,India
+139,BPCL #139,Fuel,Chandigarh,India
+140,Zomato #140,Food Delivery,Hyderabad,India
+141,BookMyShow #141,Entertainment,Surat,India
+142,Shell #142,Fuel,Chennai,India
+143,DMart #143,Grocery,Lucknow,India
+144,Ola #144,Transport,Delhi,India
+145,Big Bazaar #145,Grocery,Indore,India
+146,McDonald's #146,Restaurant,Bengaluru,India
+147,Water Board #147,Utilities,Kolkata,India
+148,Water Board #148,Utilities,Kolkata,India
+149,DMart #149,Grocery,Mumbai,India
+150,Electricity Board #150,Utilities,Kolkata,India
+151,Big Bazaar #151,Grocery,Chandigarh,India
+152,Apollo Pharmacy #152,Pharmacy,Ahmedabad,India
+153,Domino's #153,Restaurant,Chennai,India
+154,IRCTC #154,Travel,Nagpur,India
+155,MakeMyTrip #155,Travel,Lucknow,India
+156,Swiggy #156,Food Delivery,Pune,India
+157,MedPlus #157,Pharmacy,Chandigarh,India
+158,Electricity Board #158,Utilities,Nagpur,India
+159,Swiggy #159,Food Delivery,Indore,India
+160,Burger King #160,Restaurant,Delhi,India
+161,McDonald's #161,Restaurant,Indore,India
+162,Uber #162,Transport,Chennai,India
+163,Domino's #163,Restaurant,Ahmedabad,India
+164,More #164,Grocery,Hyderabad,India
+165,Zomato #165,Food Delivery,Pune,India
+166,HP #166,Fuel,Hyderabad,India
+167,Reliance Fresh #167,Grocery,Ahmedabad,India
+168,Goibibo #168,Travel,Surat,India
+169,Croma #169,Electronics,Pune,India
+170,BookMyShow #170,Entertainment,Ahmedabad,India
+171,BookMyShow #171,Entertainment,Pune,India
+172,DMart #172,Grocery,Nagpur,India
+173,HP #173,Fuel,Chandigarh,India
+174,Indian Oil #174,Fuel,Mumbai,India
+175,Pantaloons #175,Fashion,Pune,India
+176,Water Board #176,Utilities,Ahmedabad,India
+177,Myntra #177,Fashion,Ahmedabad,India
+178,Ajio #178,Fashion,Chennai,India
+179,More #179,Grocery,Delhi,India
+180,1mg #180,Pharmacy,Lucknow,India
+181,Gas Agency #181,Utilities,Noida,India
+182,PVR #182,Entertainment,Pune,India
+183,Uber #183,Transport,Lucknow,India
+184,Goibibo #184,Travel,Lucknow,India
+185,Croma #185,Electronics,Kolkata,India
+186,Shell #186,Fuel,Pune,India
+187,Ola #187,Transport,Kolkata,India
+188,Pizza Hut #188,Restaurant,Ahmedabad,India
+189,INOX #189,Entertainment,Lucknow,India
+190,Electricity Board #190,Utilities,Chandigarh,India
+191,Lifestyle #191,Fashion,Ahmedabad,India
+192,Apollo Pharmacy #192,Pharmacy,Chennai,India
+193,HP #193,Fuel,Ahmedabad,India
+194,Lifestyle #194,Fashion,Jaipur,India
+195,Radisson #195,Hotel,Lucknow,India
+196,Zomato #196,Food Delivery,Indore,India
+197,Electricity Board #197,Utilities,Lucknow,India
+198,Croma #198,Electronics,Kolkata,India
+199,BookMyShow #199,Entertainment,Chandigarh,India
+200,IRCTC #200,Travel,Surat,India
+201,Zomato #201,Food Delivery,Hyderabad,India
+202,Swiggy #202,Food Delivery,Delhi,India
+203,Reliance Fresh #203,Grocery,Jaipur,India
+204,Myntra #204,Fashion,Jaipur,India
+205,Uber #205,Transport,Noida,India
+206,Water Board #206,Utilities,Jaipur,India
+207,Uber #207,Transport,Bengaluru,India
+208,BookMyShow #208,Entertainment,Delhi,India
+209,Reliance Digital #209,Electronics,Hyderabad,India
+210,KFC #210,Restaurant,Jaipur,India
+211,Spencer's #211,Grocery,Hyderabad,India
+212,Reliance Digital #212,Electronics,Bengaluru,India
+213,Marriott #213,Hotel,Indore,India
+214,Radisson #214,Hotel,Surat,India
+215,MedPlus #215,Pharmacy,Nagpur,India
+216,Burger King #216,Restaurant,Jaipur,India
+217,HP #217,Fuel,Surat,India
+218,INOX #218,Entertainment,Indore,India
+219,MedPlus #219,Pharmacy,Lucknow,India
+220,Zomato #220,Food Delivery,Jaipur,India
+221,Croma #221,Electronics,Hyderabad,India
+222,BPCL #222,Fuel,Pune,India
+223,Apollo Pharmacy #223,Pharmacy,Bengaluru,India
+224,Pizza Hut #224,Restaurant,Ahmedabad,India
+225,Electricity Board #225,Utilities,Noida,India
+226,Swiggy #226,Food Delivery,Ahmedabad,India
+227,Ola #227,Transport,Kolkata,India
+228,Radisson #228,Hotel,Delhi,India
+229,Zomato #229,Food Delivery,Ahmedabad,India
+230,Myntra #230,Fashion,Surat,India
+231,Pantaloons #231,Fashion,Jaipur,India
+232,Big Bazaar #232,Grocery,Chennai,India
+233,Ola #233,Transport,Kolkata,India
+234,Gas Agency #234,Utilities,Kolkata,India
+235,Ajio #235,Fashion,Jaipur,India
+236,Zomato #236,Food Delivery,Ahmedabad,India
+237,Taj Hotels #237,Hotel,Ahmedabad,India
+238,Yatra #238,Travel,Noida,India
+239,Burger King #239,Restaurant,Nagpur,India
+240,KFC #240,Restaurant,Kolkata,India
+241,More #241,Grocery,Chandigarh,India
+242,Myntra #242,Fashion,Mumbai,India
+243,INOX #243,Entertainment,Bengaluru,India
+244,OYO #244,Hotel,Delhi,India
+245,Shell #245,Fuel,Pune,India
+246,Zomato #246,Food Delivery,Pune,India
+247,Yatra #247,Travel,Chennai,India
+248,Ola #248,Transport,Surat,India
+249,Reliance Digital #249,Electronics,Delhi,India
+250,Gas Agency #250,Utilities,Delhi,India
+251,MakeMyTrip #251,Travel,Lucknow,India
+252,Amazon #252,Electronics,Indore,India
+253,Reliance Fresh #253,Grocery,Hyderabad,India
+254,Spencer's #254,Grocery,Bengaluru,India
+255,Swiggy #255,Food Delivery,Jaipur,India
+256,PVR #256,Entertainment,Chandigarh,India
+257,Zomato #257,Food Delivery,Noida,India
+258,BPCL #258,Fuel,Bengaluru,India
+259,Myntra #259,Fashion,Indore,India
+260,McDonald's #260,Restaurant,Mumbai,India
+261,Myntra #261,Fashion,Nagpur,India
+262,Shell #262,Fuel,Ahmedabad,India
+263,Electricity Board #263,Utilities,Mumbai,India
+264,Ajio #264,Fashion,Mumbai,India
+265,Water Board #265,Utilities,Surat,India
+266,BookMyShow #266,Entertainment,Indore,India
+267,Vijay Sales #267,Electronics,Indore,India
+268,Big Bazaar #268,Grocery,Kolkata,India
+269,Ola #269,Transport,Mumbai,India
+270,1mg #270,Pharmacy,Pune,India
+271,More #271,Grocery,Surat,India
+272,Taj Hotels #272,Hotel,Ahmedabad,India
+273,Yatra #273,Travel,Noida,India
+274,Burger King #274,Restaurant,Bengaluru,India
+275,Gas Agency #275,Utilities,Lucknow,India
+276,Shell #276,Fuel,Jaipur,India
+277,Ola #277,Transport,Pune,India
+278,Swiggy #278,Food Delivery,Chennai,India
+279,OYO #279,Hotel,Indore,India
+280,Radisson #280,Hotel,Pune,India
+281,More #281,Grocery,Surat,India
+282,MakeMyTrip #282,Travel,Jaipur,India
+283,Zomato #283,Food Delivery,Indore,India
+284,BPCL #284,Fuel,Chennai,India
+285,Lifestyle #285,Fashion,Kolkata,India
+286,Spencer's #286,Grocery,Hyderabad,India
+287,Flipkart #287,Electronics,Noida,India
+288,Ola #288,Transport,Kolkata,India
+289,Zomato #289,Food Delivery,Lucknow,India
+290,Water Board #290,Utilities,Jaipur,India
+291,DMart #291,Grocery,Chennai,India
+292,Zomato #292,Food Delivery,Noida,India
+293,Zomato #293,Food Delivery,Lucknow,India
+294,Lifestyle #294,Fashion,Jaipur,India
+295,1mg #295,Pharmacy,Pune,India
+296,Ola #296,Transport,Pune,India
+297,Water Board #297,Utilities,Chennai,India
+298,BPCL #298,Fuel,Hyderabad,India
+299,Flipkart #299,Electronics,Pune,India
+300,Vijay Sales #300,Electronics,Indore,India
+301,Electricity Board #301,Utilities,Hyderabad,India
+302,Zomato #302,Food Delivery,Chennai,India
+303,Gas Agency #303,Utilities,Indore,India
+304,1mg #304,Pharmacy,Chennai,India
+305,Flipkart #305,Electronics,Chennai,India
+306,Zomato #306,Food Delivery,Bengaluru,India
+307,Indian Oil #307,Fuel,Noida,India
+308,Apollo Pharmacy #308,Pharmacy,Chennai,India
+309,DMart #309,Grocery,Kolkata,India
+310,HP #310,Fuel,Lucknow,India
+311,Taj Hotels #311,Hotel,Surat,India
+312,Spencer's #312,Grocery,Chennai,India
+313,Radisson #313,Hotel,Jaipur,India
+314,MakeMyTrip #314,Travel,Delhi,India
+315,Shell #315,Fuel,Mumbai,India
+316,Reliance Digital #316,Electronics,Jaipur,India
+317,Vijay Sales #317,Electronics,Lucknow,India
+318,PVR #318,Entertainment,Bengaluru,India
+319,KFC #319,Restaurant,Chennai,India
+320,Flipkart #320,Electronics,Mumbai,India
+321,MedPlus #321,Pharmacy,Chandigarh,India
+322,Ajio #322,Fashion,Indore,India
+323,MedPlus #323,Pharmacy,Jaipur,India
+324,Marriott #324,Hotel,Surat,India
+325,Pantaloons #325,Fashion,Chennai,India
+326,Myntra #326,Fashion,Chandigarh,India
+327,Electricity Board #327,Utilities,Indore,India
+328,Swiggy #328,Food Delivery,Chennai,India
+329,PVR #329,Entertainment,Bengaluru,India
+330,Swiggy #330,Food Delivery,Kolkata,India
+331,Flipkart #331,Electronics,Delhi,India
+332,Ola #332,Transport,Noida,India
+333,Pantaloons #333,Fashion,Chennai,India
+334,Reliance Fresh #334,Grocery,Chennai,India
+335,Water Board #335,Utilities,Noida,India
+336,Taj Hotels #336,Hotel,Lucknow,India
+337,Zomato #337,Food Delivery,Indore,India
+338,BookMyShow #338,Entertainment,Lucknow,India
+339,Zomato #339,Food Delivery,Mumbai,India
+340,Apollo Pharmacy #340,Pharmacy,Lucknow,India
+341,McDonald's #341,Restaurant,Surat,India
+342,Domino's #342,Restaurant,Delhi,India
+343,McDonald's #343,Restaurant,Chandigarh,India
+344,Gas Agency #344,Utilities,Nagpur,India
+345,Shell #345,Fuel,Mumbai,India
+346,Marriott #346,Hotel,Noida,India
+347,Ola #347,Transport,Kolkata,India
+348,MedPlus #348,Pharmacy,Jaipur,India
+349,Vijay Sales #349,Electronics,Delhi,India
+350,Ola #350,Transport,Chandigarh,India
+351,Indian Oil #351,Fuel,Mumbai,India
+352,Swiggy #352,Food Delivery,Indore,India
+353,INOX #353,Entertainment,Chandigarh,India
+354,Reliance Fresh #354,Grocery,Jaipur,India
+355,1mg #355,Pharmacy,Jaipur,India
+356,HP #356,Fuel,Chandigarh,India
+357,Ola #357,Transport,Mumbai,India
+358,Marriott #358,Hotel,Ahmedabad,India
+359,Goibibo #359,Travel,Lucknow,India
+360,Flipkart #360,Electronics,Pune,India
+361,Ola #361,Transport,Chennai,India
+362,INOX #362,Entertainment,Surat,India
+363,Apollo Pharmacy #363,Pharmacy,Jaipur,India
+364,Croma #364,Electronics,Chennai,India
+365,IRCTC #365,Travel,Indore,India
+366,Uber #366,Transport,Lucknow,India
+367,MedPlus #367,Pharmacy,Ahmedabad,India
+368,Reliance Fresh #368,Grocery,Kolkata,India
+369,Yatra #369,Travel,Lucknow,India
+370,Taj Hotels #370,Hotel,Hyderabad,India
+371,HP #371,Fuel,Nagpur,India
+372,Shell #372,Fuel,Nagpur,India
+373,Water Board #373,Utilities,Mumbai,India
+374,Spencer's #374,Grocery,Indore,India
+375,Swiggy #375,Food Delivery,Chennai,India
+376,Apollo Pharmacy #376,Pharmacy,Kolkata,India
+377,Uber #377,Transport,Hyderabad,India
+378,Reliance Digital #378,Electronics,Mumbai,India
+379,PVR #379,Entertainment,Jaipur,India
+380,Water Board #380,Utilities,Kolkata,India
+381,Water Board #381,Utilities,Ahmedabad,India
+382,Radisson #382,Hotel,Hyderabad,India
+383,OYO #383,Hotel,Ahmedabad,India
+384,Swiggy #384,Food Delivery,Surat,India
+385,Croma #385,Electronics,Indore,India
+386,Ola #386,Transport,Nagpur,India
+387,MedPlus #387,Pharmacy,Surat,India
+388,Big Bazaar #388,Grocery,Noida,India
+389,Shell #389,Fuel,Surat,India
+390,Burger King #390,Restaurant,Kolkata,India
+391,Marriott #391,Hotel,Pune,India
+392,1mg #392,Pharmacy,Ahmedabad,India
+393,Marriott #393,Hotel,Surat,India
+394,Swiggy #394,Food Delivery,Chandigarh,India
+395,Uber #395,Transport,Surat,India
+396,Uber #396,Transport,Pune,India
+397,Water Board #397,Utilities,Noida,India
+398,Ola #398,Transport,Lucknow,India
+399,PVR #399,Entertainment,Jaipur,India
+400,Reliance Fresh #400,Grocery,Kolkata,India
+401,Lifestyle #401,Fashion,Surat,India
+402,Reliance Digital #402,Electronics,Mumbai,India
+403,MedPlus #403,Pharmacy,Delhi,India
+404,Electricity Board #404,Utilities,Ahmedabad,India
+405,PVR #405,Entertainment,Mumbai,India
+406,Marriott #406,Hotel,Pune,India
+407,Pantaloons #407,Fashion,Lucknow,India
+408,Croma #408,Electronics,Surat,India
+409,BookMyShow #409,Entertainment,Ahmedabad,India
+410,Yatra #410,Travel,Surat,India
+411,Apollo Pharmacy #411,Pharmacy,Chandigarh,India
+412,Flipkart #412,Electronics,Lucknow,India
+413,INOX #413,Entertainment,Hyderabad,India
+414,Electricity Board #414,Utilities,Ahmedabad,India
+415,Amazon #415,Electronics,Jaipur,India
+416,McDonald's #416,Restaurant,Nagpur,India
+417,DMart #417,Grocery,Pune,India
+418,Big Bazaar #418,Grocery,Pune,India
+419,Yatra #419,Travel,Bengaluru,India
+420,Zomato #420,Food Delivery,Chandigarh,India
+421,PVR #421,Entertainment,Bengaluru,India
+422,Domino's #422,Restaurant,Chandigarh,India
+423,Uber #423,Transport,Jaipur,India
+424,Ajio #424,Fashion,Hyderabad,India
+425,Marriott #425,Hotel,Jaipur,India
+426,Indian Oil #426,Fuel,Nagpur,India
+427,Marriott #427,Hotel,Lucknow,India
+428,Apollo Pharmacy #428,Pharmacy,Mumbai,India
+429,Marriott #429,Hotel,Chandigarh,India
+430,Shell #430,Fuel,Noida,India
+431,Shell #431,Fuel,Surat,India
+432,HP #432,Fuel,Ahmedabad,India
+433,Taj Hotels #433,Hotel,Hyderabad,India
+434,Ola #434,Transport,Chandigarh,India
+435,BPCL #435,Fuel,Delhi,India
+436,INOX #436,Entertainment,Chennai,India
+437,Spencer's #437,Grocery,Surat,India
+438,BookMyShow #438,Entertainment,Delhi,India
+439,Pantaloons #439,Fashion,Surat,India
+440,HP #440,Fuel,Chandigarh,India
+441,MakeMyTrip #441,Travel,Lucknow,India
+442,Zomato #442,Food Delivery,Lucknow,India
+443,Gas Agency #443,Utilities,Lucknow,India
+444,Domino's #444,Restaurant,Nagpur,India
+445,BookMyShow #445,Entertainment,Delhi,India
+446,Shell #446,Fuel,Delhi,India
+447,Lifestyle #447,Fashion,Noida,India
+448,Domino's #448,Restaurant,Nagpur,India
+449,BPCL #449,Fuel,Noida,India
+450,Uber #450,Transport,Hyderabad,India
+451,KFC #451,Restaurant,Nagpur,India
+452,Goibibo #452,Travel,Surat,India
+453,McDonald's #453,Restaurant,Nagpur,India
+454,Marriott #454,Hotel,Noida,India
+455,IRCTC #455,Travel,Jaipur,India
+456,Flipkart #456,Electronics,Indore,India
+457,Zomato #457,Food Delivery,Surat,India
+458,MedPlus #458,Pharmacy,Mumbai,India
+459,Uber #459,Transport,Chennai,India
+460,Apollo Pharmacy #460,Pharmacy,Jaipur,India
+461,Goibibo #461,Travel,Chandigarh,India
+462,Ola #462,Transport,Mumbai,India
+463,PVR #463,Entertainment,Jaipur,India
+464,Spencer's #464,Grocery,Nagpur,India
+465,MedPlus #465,Pharmacy,Nagpur,India
+466,Ajio #466,Fashion,Lucknow,India
+467,Reliance Digital #467,Electronics,Nagpur,India
+468,Water Board #468,Utilities,Lucknow,India
+469,Uber #469,Transport,Bengaluru,India
+470,DMart #470,Grocery,Chennai,India
+471,Taj Hotels #471,Hotel,Mumbai,India
+472,Swiggy #472,Food Delivery,Ahmedabad,India
+473,Marriott #473,Hotel,Lucknow,India
+474,Gas Agency #474,Utilities,Kolkata,India
+475,Uber #475,Transport,Nagpur,India
+476,Uber #476,Transport,Surat,India
+477,Radisson #477,Hotel,Chennai,India
+478,Big Bazaar #478,Grocery,Hyderabad,India
+479,Radisson #479,Hotel,Hyderabad,India
+480,IRCTC #480,Travel,Lucknow,India
+481,Goibibo #481,Travel,Delhi,India
+482,Ola #482,Transport,Hyderabad,India
+483,Reliance Digital #483,Electronics,Mumbai,India
+484,PVR #484,Entertainment,Lucknow,India
+485,BookMyShow #485,Entertainment,Delhi,India
+486,Big Bazaar #486,Grocery,Hyderabad,India
+487,KFC #487,Restaurant,Hyderabad,India
+488,Vijay Sales #488,Electronics,Hyderabad,India
+489,Ajio #489,Fashion,Surat,India
+490,Zomato #490,Food Delivery,Indore,India
+491,KFC #491,Restaurant,Delhi,India
+492,HP #492,Fuel,Bengaluru,India
+493,MedPlus #493,Pharmacy,Indore,India
+494,Domino's #494,Restaurant,Lucknow,India
+495,Reliance Fresh #495,Grocery,Delhi,India
+496,MakeMyTrip #496,Travel,Chandigarh,India
+497,IRCTC #497,Travel,Bengaluru,India
+498,Indian Oil #498,Fuel,Bengaluru,India
+499,Water Board #499,Utilities,Kolkata,India
+500,Amazon #500,Electronics,Jaipur,India
